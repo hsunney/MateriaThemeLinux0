@@ -1,5 +1,9 @@
 # Materia
 
+Enable User Themes on GNOME Extension
+https://extensions.gnome.org/extension/19/user-themes/
+https://gitlab.gnome.org/GNOME/gnome-shell-extensions
+
 Materia (formerly Flat-Plat) is a [Material Design](https://material.io) theme for GNOME/GTK+ based desktop environments.  
 It supports GTK+ 3, GTK+ 2, GNOME Shell, Budgie, Cinnamon, MATE, Unity, LightDM, GDM, Chrome theme, etc.
 
