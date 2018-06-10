@@ -13,15 +13,14 @@ Also Materia has compatibility with [oomox theme designer](https://github.com/ac
 
 **Ripple effect** animations for GTK+ 3 are supported:
 
-![Button](../images/Button.gif?raw=true)
 
 **3 color variants** and **2 size variants** are available:
 
-| **Materia** | **standard** | **compact** |
+| **Materia** |
 |:-:|:-:|:-:|
-| **standard** | ![Materia][1] | ![Materia-compact][2] |
-| **dark** | ![Materia-dark][3] | ![Materia-dark-compact][4] |
-| **light** | ![Materia-light][5] | ![Materia-light-compact][6] |
+| **standard** |
+| **dark** |
+| **light** |
 
 [1]: ../images/Materia.png?raw=true
 [2]: ../images/Materia-compact.png?raw=true
